@@ -6,7 +6,7 @@
 [![Dashboard: Power BI](https://img.shields.io/badge/Dashboard-Power_BI-F2C811?logo=powerbi&logoColor=black)](https://github.com/stevetab03/powerbi-dax-patterns)
 
 **Author:** Liyuan Zhang  
-**Status:** Active Development
+**Status:** Active Research & Development / Portfolio Showcase
 
 ---
 
@@ -262,5 +262,6 @@ across regimes, not the ones that are stable.*
 
 ## Contact
 
+**Monograph:** Available upon request for full derivations, proofs, and theorem statements.    
 **LinkedIn:** https://www.linkedin.com/in/hlzhang/  
 **GitHub:** https://github.com/stevetab03
